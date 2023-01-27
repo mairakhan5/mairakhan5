@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mairakhan5
 - 👀 I’m interested in Genetic Epidemiology
-- 🌱 I’m currently learning genetic analyses of population based studies
+- 🌱 I’m currently learning genetic analyses of population based association studies
 - 💞️ I’m looking to collaborate on sex specific genetic differences in chronic disease risk. 
 - 📫 How to reach me - maira.khan@ndph.ox.ac.uk | maira.khan@lmh.ox.ac.uk
 
